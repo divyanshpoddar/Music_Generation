@@ -30,7 +30,7 @@ This project explores multiple hybrid deep learning architectures for automated 
 
 ## 🧪 Model Training & Evaluation
 
-- Optimizer: `Adamax`, loss: `sparse categorical crossentropy`
+- Optimizer: `Softmax`, loss: `sparse categorical crossentropy`
 - Training: up to 15 epochs with early stopping
 - Evaluation metrics include:
   - Melodic coherence
